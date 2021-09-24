@@ -1,6 +1,8 @@
 Cloudtrail
 ==========
 
+[![CI](https://github.com/deekayen/ansible-role-cloudtrail/actions/workflows/ci.yml/badge.svg)](https://github.com/deekayen/ansible-role-cloudtrail/actions/workflows/ci.yml)
+
 Ensure CloudTrail is enabled in all regions.
 
 CIS Amazon Web Services Foundations Benchmark
