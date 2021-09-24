@@ -1,0 +1,23 @@
+---
+
+galaxy_info:
+  role_name: cloudtrail
+  namespace: deekayen
+  author: David Norman
+  description: Ensure CloudTrail is enabled in all regions.
+
+  license: BSD
+  min_ansible_version: 2.9
+  github_branch: main
+
+  platforms:
+    - name: GenericLinux
+      versions:
+        - all
+
+  galaxy_tags:
+    - aws
+    - cloudtrail
+    - cis
+
+dependencies: []
